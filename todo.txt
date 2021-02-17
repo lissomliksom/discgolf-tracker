@@ -1,0 +1,3 @@
+- Include Honeypot
+- Deploy to discomus.hellosimen.com
+- Github
